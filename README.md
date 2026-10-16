@@ -19,8 +19,4 @@ https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files
 | 7 | Cleaning messy text | todo |
 | 8 | Mini report | todo |
 
-## How to work through a lesson
-1. Read the question in `NN_exercises.sql`. Write your own query under it and run it.
-2. Do the same question in `NN_pandas_exercises.ipynb`.
-3. Compare your answers with `NN_solutions.sql` and the pandas solutions notebook.
-4. Read `NN_interview.md` and answer each question out loud.
+
